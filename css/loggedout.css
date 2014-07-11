@@ -1,0 +1,15 @@
+html { 
+    background: url(/Users/agatchell/workspace/tweetstories/screenshotloggedout.png) no-repeat center center fixed; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+iframe
+{
+position:absolute;
+left:510px;
+top:55px;
+}
+

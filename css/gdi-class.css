@@ -4,3 +4,20 @@
 .hotpink {
 	background-color: hotpink;
 }
+
+body { padding-top: 70px; }
+
+html { 
+    background: url(/Users/agatchell/workspace/tweetstories/screenshotedited.png) no-repeat center center fixed; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+iframe
+{
+position:absolute;
+left:435px;
+top:600px;
+}
